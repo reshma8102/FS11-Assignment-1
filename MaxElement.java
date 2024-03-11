@@ -1,3 +1,4 @@
+//Arrays
 // 2)write a java code to find the maximum element in array
 
 import java.util.*;
