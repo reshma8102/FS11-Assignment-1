@@ -1,3 +1,5 @@
+// 1)write a java code for sorting an array, and find number of occurrences of a particular number in java.
+
 import java.util.*;
 
 public class Main{  
